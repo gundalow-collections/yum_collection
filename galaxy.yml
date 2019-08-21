@@ -1,0 +1,16 @@
+namespace: ansible_collection
+name: yum_collection
+version: 1.0.0
+readme: null
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies:
+  ansible_collection.dep_collection2: '>=1.0'
+  ansible_collection.dep_collection1: '>=1.0'
+repository: null
+documentation: null
+homepage: null
+issues: null
